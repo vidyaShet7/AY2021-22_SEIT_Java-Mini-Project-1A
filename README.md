@@ -41,7 +41,6 @@ We have used the following data for database connection
 - user name="root";
 - password="qsaw1234?";
 
-If you want to change this data, then open "college-management-system-java\src\repository\DBConnection.java"
 
 ## How to Run
 - Start Database Server
