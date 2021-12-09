@@ -1,29 +1,29 @@
-# AY2021-22_SEIT_Java-Mini-Project-1A
+# Food Diary
 
-## https://github.com/vidyaShet7/AY2021-22_SEIT_Java-Mini-Project-1A.git
+## Guide: Prof. Vidya Shet
 
-## This is the GitHub link of IT Dept Second year Mini Project 1A. Project Group leader is required to fork this repository and do follow steps as followed:
+## Members:
+Amir Madoo(20104013); Darpan Mhatre(20104019); Madhu Gage(20104037); Manashree Chavan(20104028)
 
-### 1) Create a new folder by your group number and tittle of project in the format (Group no._ tittle of project) eg. 04_smart home
 
-### 2) Add the following things in your folder:
+## Introduction:
+Food Diary is a very useful app for people who love to cook and try out new recipes.
+The app ensures that our users can save their recipes and get free from the hesitation of
+forgetting recipes or mixing them up and allows the user to experiment with other
+user’s dishes. Food Diary makes finding recipes easy by helping you to save your own
+recipe & also view other user’s recipes, thus providing a user-friendly experience.
+People find it hard to get new inspiration and are often left clueless on what to cook.
+There are certain that were left behind in the past due to change in times, age of
+modernity and digitalization many age-old dishes were left simply forgotten. The
+application is a complete dynamic system that could showcase the lost traditional
+recipes of India to International cuisine by providing an open source to user to share their
+recipes.
 
-### a) Working source code with database backup (Zip file)
 
-### b) Mini Project 1A  Report soft copy SEM-3 (.pdf)
+## Implementation:
+A particular user need to register for the first time and afterwards he/she can just login easily using the credentials he/she entered while registering.
+Now after login or register the user will be prompted to the home page wherein he/she will have two options one to add recipes and one to view.
+In add recipe option the user will be asked basic information like ingredients, procedure and recipe name after addding the desired the user can click on add and
+the recipe will be stored directly in the database. On the view option the user will also have the option of updating recipes and ssearching recipes, to view any particular recipe the user can click on the recipe name in the table displaying various recipes, also he/she can search using the search box at the top, and to update the user need to click update then click the recipe he/she wants to update change the required and click update and the recipe will be updated. Latly the user can directly exit or log out. And also user can feedback our app using the feedback option on the bottom of the home page which will help us to improve the app.     
 
-### c) mini project presentations (In both .pdf and .ppt)
 
-### d) project gantt chart
-
-### e) Include Read Me file with: 
-
-### (i)Title of project. 
-### (ii)Group Members. 
-### (iii)Brief Description about project implementation.
-
-### f) Create another new file inside the folder and name it as LICENSE and click on the license template button on the right side. Select the GNU GET license template. Click on Review and submit button on the right side. Commit the changes below.
-
-## ****After completing these steps commit the changes and create new pull request with your project group name as a comment.
-
-## ****Before uploading make sure that all things which u r uploading r verified and approved by ur respective guides and coguides.
