@@ -1,4 +1,4 @@
-## 30_FoodDiary
+# 30_FoodDiary
 
 # Project Guide: Prof. Vidya Shet
 
